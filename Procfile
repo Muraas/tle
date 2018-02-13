@@ -1,1 +1,1 @@
-web: python bott.py
+web: python bott.py -p $PORT
